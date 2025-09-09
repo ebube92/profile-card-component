@@ -2,4 +2,8 @@
 
 @theme {
     --font-primary: 'Kumbh Sans', sans-serif;
+    --color-bg: hsl(185, 75%, 39%);
+    --color-navy-color: hsl(229, 23%, 23%);
+    --color-grayy: hsl(227, 10%, 46%);
+    --color-lightgray: hsl(225, 100%, 98%);
 }
